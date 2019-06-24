@@ -12,7 +12,7 @@ This project goes from the theorical explination about how Random Forests work, 
 * How do we use Random Forest?
 * The out-of-bag sample
 
-## What about the practical application?
+## Practical application?
 
 The practical application has been done with the one and only Boston Housing dataset. Revisiting how to load it from those who never worked with it, to later split it and rescale it in order to work with it.
 
